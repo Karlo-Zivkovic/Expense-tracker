@@ -2,7 +2,7 @@
 One of the starting projects. Using context + reducer to update the state. Separation of components and simple state updates.
 <br />
 
-<h2>Languages and Utilities Used</h2>
+<h2>Libraries and Utilities Used</h2>
 
 - <b>Javascript</b>
 - <b>React</b>
