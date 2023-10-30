@@ -1,5 +1,5 @@
 <h1>Description</h1>
-One of the starting projects. Using context + reducer to update the state. Separation of components and simple state updates.
+Using context + reducer to update the state. Separation of components and simple state updates.
 <br />
 
 <h2>Libraries and Utilities Used</h2>
@@ -11,3 +11,7 @@ One of the starting projects. Using context + reducer to update the state. Separ
 
 - <b>npm install</b>
 - <b>npm start</b>
+
+<h2>Project screenshot</h2>
+
+<img src="https://i.imgur.com/MAYoqWR.png" height="80%" width="80%" alt="project dashboard"/>
